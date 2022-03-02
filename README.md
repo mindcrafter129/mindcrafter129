@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mindcrafter129
 - 👀 I’m interested in Videogames
-- 🌱 I’m currently learning more math
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning coding
 
 <!---
 mindcrafter129/mindcrafter129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
